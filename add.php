@@ -45,7 +45,7 @@
             // echo 'form has errors';
         } else {
             // echo 'form is valid';
-            header('Lcoation: index.php');
+            header('Location: index.php');
         }
 
     }
